@@ -45,7 +45,7 @@ function runQuiz(){
         }
       }
 
-    alert("You got " + score + " of 4 correct.")
+    alert("You got " + score + " of 4 true questions correct.")
 
     }
 
