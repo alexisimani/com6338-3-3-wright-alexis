@@ -46,7 +46,6 @@ function runQuiz(){
       }
 
     alert("Your score is " + (score / 6) * 100 + "%")
-    
 }
 
 
