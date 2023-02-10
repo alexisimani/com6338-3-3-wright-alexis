@@ -45,10 +45,9 @@ function runQuiz(){
         }
       }
 
-    alert("You got " + score + " of 4 true questions correct.")
-
-    }
-
+    alert("Your score is " + (score / 6) * 100 + "%")
+    
+}
 
 
 
